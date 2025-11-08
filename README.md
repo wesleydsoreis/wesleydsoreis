@@ -20,8 +20,13 @@ Gosto de unir teoria e prática para transformar ideias em soluções reais e ef
 **Em aprendizado:** HTML, CSS, lógica avançada, orientação a objetos  
 
 *Projetos em destaque*
-[Gestão de Portfólio de Projetos](https://github.com/wesleydsoreis/gest-odeportf-lio) – Sistema de avaliação e controle de projetos via CMD.  
-[Deluxe Garage].(https://github.com/AnthonyBerri/deluxe-garage) - Deluxe Garage é um projeto acadêmico de um site para aluguel de carros de luxo.
+
+- [Gestão de Portfólio de Projetos](https://github.com/wesleydsoreis/gest-odeportf-lio)  
+  Sistema de avaliação e controle de projetos via CMD.
+
+- [Deluxe Garage](https://github.com/AnthonyBerri/deluxe-garage)  
+  Projeto acadêmico de um site para aluguel de carros de luxo.
+
 
 Contato
 **LinkedIn:** [linkedin.com/in/wesleydsoreis](https://linkedin.com/in/wesleydsoreis)  
