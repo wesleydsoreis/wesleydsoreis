@@ -1,4 +1,4 @@
-Wesley dos Reis Marcos
+Wesley dos Reis Marcos, 22 anos.
 
 Sou estudante de **Engenharia de Software** (2ª fase), com foco em **C#, .NET e JavaScript**.  
 Atualmente desenvolvo projetos acadêmicos e pessoais voltados à **automação, gestão de sistemas e desenvolvimento orientado a objetos**.  
